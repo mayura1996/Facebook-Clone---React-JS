@@ -20,7 +20,7 @@ function Post({profilePic,image,username,timestamp,message}) {
             </div>
 
             <div className="post__bottom">
-                <p>message</p>
+                <p>{message}</p>
             </div>
 
 
